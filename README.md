@@ -8,10 +8,10 @@ Run un-official tests:
 ```bash
 make
 ```
-```true thales.ee.duth.gr 4475```
+```true thales.ee.duth.gr 4475 0 50 123```
 
 Run official tests:
 ```bash
 make official
 ```
-```true thales.ee.duth.gr 4475 0 50 123```
+```true thales.ee.duth.gr 4475```
