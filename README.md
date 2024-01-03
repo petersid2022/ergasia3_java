@@ -4,8 +4,14 @@
 
 ## MAKEFILE
 
+Run un-official tests:
 ```bash
 make
 ```
+```true thales.ee.duth.gr 4475```
 
-default params: "true thales.ee.duth.gr 4475"
+Run official tests:
+```bash
+make official
+```
+```true thales.ee.duth.gr 4475 0 50 123```
